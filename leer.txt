@@ -1,0 +1,1 @@
+ npm i -D nodemon @babel/core @babel/cli @babel/node @babel/preset-env
