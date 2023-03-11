@@ -8,6 +8,5 @@ export const connectdb = async () => {
     } catch (error) {
         console.log(error)   ;     
     }
-
-    
+   
 }

@@ -16,5 +16,3 @@ const schema = new Schema(
 );
 
 export default model("Note", schema);
-
-
